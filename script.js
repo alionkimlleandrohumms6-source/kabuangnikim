@@ -1,4 +1,5 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes GAHAHAHAHAbuang.\n\nAnyway, Happy Birthday! 18 naka! playsafe na kay pwede na makulong jok btw I'm hoping you're doing well especially sa acads nimo!\n\nMay God take care of you everyday,everysecond,everywhere.`;
+const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes GAHAHAHAHAbuang.\n\nAnyway, Happy Birthday! 18 naka! playsafe na kay pwede naka makulong jok btw I'm hoping you're doing well especially sa acads nd Good luck sa college life nimo!\n\nMay God take care of you everyday,everysecond,everywhere
+ampingggg always my kakampi:).`;
 
 
 
